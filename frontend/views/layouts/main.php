@@ -40,6 +40,7 @@ AppAsset::register($this);
         ['label' => 'About', 'url' => ['/site/about']],
         ['label' => 'Contact', 'url' => ['/site/contact']],
         ['label' => 'Salam', 'url' => ['/site/salam']],
+        ['label' => 'Prodi', 'url' => ['/prodi/index']],
         ['label' => 'Mata Kuliah', 'url' => ['/matkul/index']],
         ['label' => 'Mahasiswa', 'url' => ['/mahasiswa/index']],
         ['label' => 'Dosen', 'url' => ['/dosen/index']],

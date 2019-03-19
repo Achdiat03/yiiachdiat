@@ -78,7 +78,12 @@ class SiteController extends Controller
     //membuat site salam
     public function actionSalam()
     {
-        return $this->render('salam');
+        $ucapan = "Assalamualaikum";
+        $nama = "Achdiat";
+        return $this->render('salam',[
+            'ucapanSalam' => $ucapan,
+            'seseorang' => $nama
+        ]);
     }
     
 
