@@ -11,6 +11,7 @@
 						<th>#</th>
 						<th>Hari</th>
 						<th>Mata Kuliah</th>
+						<th>SKS</th>
 						<th>Jam</th>
 						<th>Ruang</th>
 						<th>Dosen</th>
@@ -21,6 +22,7 @@
 						<td>1</td>
 						<td>Senin</td>
 						<td>Manajemen Produksi & Riset Operasi</td>
+						<td>3</td>
 						<td>09:00 - 11:30</td>
 						<td>B2-203</td>
 						<td>Suhendi</td>
@@ -29,6 +31,7 @@
 						<td>2</td>
 						<td>Senin</td>
 						<td>Pemrograman Web Lanjutan</td>
+						<td>3</td>
 						<td>13:01 - 15:30</td>
 						<td>B1-105</td>
 						<td>Sirojul Munir</td>
@@ -37,6 +40,7 @@
 						<td>3</td>
 						<td>Selasa</td>
 						<td>Pengantar Akuntansi</td>
+						<td>2</td>
 						<td>08:00 - 10:30</td>
 						<td>B2-203</td>
 						<td>Amalia</td>
@@ -45,6 +49,7 @@
 						<td>4</td>
 						<td>Selasa</td>
 						<td>Pengantar Bisnis</td>
+						<td>2</td>
 						<td>11:00 - 13:00</td>
 						<td>B2-203</td>
 						<td>Rusmanto</td>
@@ -53,6 +58,7 @@
 						<td>5</td>
 						<td>Rabu</td>
 						<td>Interaksi Manusia dan Komputer</td>
+						<td>2</td>
 						<td>13:00 - 15:00</td>
 						<td>B2-203</td>
 						<td>Pristi Sukmasetya</td>
@@ -61,6 +67,7 @@
 						<td>6</td>
 						<td>Rabu</td>
 						<td>Technopreneurship dan Kewirausahaan</td>
+						<td>3</td>
 						<td>18:30 - 20:30</td>
 						<td>B2-Auditorium</td>
 						<td>Bachtiar Firdaus</td>
@@ -69,6 +76,7 @@
 						<td>7</td>
 						<td>Kamis</td>
 						<td>Sistem Informasi Manajemen</td>
+						<td>3</td>
 						<td>09:00 - 11:00</td>
 						<td>B2-203</td>
 						<td>Yekti Wirani</td>
@@ -77,6 +85,7 @@
 						<td>8</td>
 						<td>Kamis</td>
 						<td>Data Warehouse</td>
+						<td>2</td>
 						<td>13:00 - 15:00</td>
 						<td>B2-204</td>
 						<td>Sirojul Munir</td>
@@ -85,6 +94,7 @@
 						<td>9</td>
 						<td>Jumat</td>
 						<td>Rekayasa Perangkat Lunak</td>
+						<td>3</td>
 						<td>07:00 - 09:30</td>
 						<td>B2-203</td>
 						<td>Reza Aldiansyah</td>

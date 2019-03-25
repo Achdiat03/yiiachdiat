@@ -16,33 +16,33 @@
 			<tbody>
 				<tr>
 					<td>1</td>
-					<td><?=$maf?></td>
-					<td><?=$si?></td>
-					<td><?=$smstr?></td>
+					<td><?=$rc?></td>
+					<td><?=$ti?></td>
+					<td><?=$smstr6?></td>
 				</tr>
 				<tr>
 					<td>2</td>
-					<td><?=$nnw?></td>
+					<td><?=$nf?></td>
 					<td><?=$si?></td>
-					<td><?=$smstr?></td>
+					<td><?=$smstr2?></td>
 				</tr>
 				<tr>
 					<td>3</td>
-					<td><?=$rn?></td>
+					<td><?=$maf?></td>
 					<td><?=$si?></td>
-					<td><?=$smstr?></td>
+					<td><?=$smstr4?></td>
 				</tr>
 				<tr>
 					<td>4</td>
-					<td><?=$af?></td>
-					<td><?=$ti?></td>
-					<td><?=$smstr?></td>
+					<td><?=$nk?></td>
+					<td><?=$si?></td>
+					<td><?=$smstr6?></td>
 				</tr>
 				<tr>
 					<td>5</td>
-					<td><?=$ey?></td>
+					<td><?=$n?></td>
 					<td><?=$ti?></td>
-					<td><?=$smstr?></td>
+					<td><?=$smstr4?></td>
 				</tr>
 			</tbody>
 		</table>
