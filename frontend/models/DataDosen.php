@@ -4,19 +4,21 @@ namespace frontend\models;
 class DataDosen{
 	public $nidn;
 	public $nama;
-	public $idprodi
+	public $idprodi;
 
 	//konstruktor class
-	public __function($nidn, $nama){
+	public function __construct($nidn, $nama){
 		$this -> nidn = $nidn;
 		$this -> nama = $nama;
 	}
 	//method
-	public function idprodi{
+	public function idprodi(){
 		if ($this -> idprodi == 1) {
 			return "Sistem Informasi";
-		} else ($this -> idprodi == 2){
-			return "Teknik Infromatika";
+		} elseif ($this -> idprodi == 2){
+			return "Teknik Informatika";
+		} else{
+			return;
 		}
 	}
 }
